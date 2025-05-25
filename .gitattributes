@@ -1,0 +1,11 @@
+# Auto normalize line endings for text files
+* text=auto eol=lf
+
+# Unity files treated as text
+*.cs text
+*.shader text
+*.txt text
+*.meta text
+*.asmdef text
+*.json text
+*.xml text
